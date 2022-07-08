@@ -1,0 +1,3 @@
+Lo scopo di questo progetto, elaborato da Sollai Gabriele, Stefano Apicella e Simone Manzolillo, è applicare la Principal Component Analysis al dataset "Redditi Comuni", tutto viene illustrato all'interno dell'applicazione Shiny sviluppata.
+Per visualizzare l'app bisognerà effettuare il download dei due file R in repository e, in seguito, eseguire tutte le linee di codice del file "Script ACP.R". Fatto ciò bisognerà eseguire l'app contenuta nel file "App.R".
+Nel caso in cui dovessero mancare i packages necessari all'esecuzione di uno dei due script RStudio vi mostrerà un avviso attraverso il quale potrete effettuare il download degli stessi.
